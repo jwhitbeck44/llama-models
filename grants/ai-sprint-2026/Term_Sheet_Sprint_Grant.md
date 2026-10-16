@@ -4,7 +4,7 @@
 
 | Term | Definition (source) |
 | --- | --- |
-| Course Learning Outcome 2 | "Explain the challenges and issues that entrepreneurs face when starting a venture." (Fall 2026 syllabus) |
+| Course Learning Outcome 2 | "Explain the challenges and issues that entrepreneurs face when starting a venture." (Fall 2026 syllabus). Short form after first use: Outcome 2 |
 | Founder Task | The weekly experiential assignment, scored on the Founder Task rubric (syllabus) |
 | Founder Task rubric | Four criteria at 0 to 2 points (Evidence of the Act, Specificity, Framework Contact, Honest Reckoning) plus 2 points for Board presentation (rubric document) |
 | Peer Advisory Board | Permanent group of about six students (syllabus); short form: Board |
@@ -21,6 +21,9 @@
 | build tool | An AI tool that produces a working web page or prototype from a written description (this proposal) |
 | AI Check-In survey | Anonymous week 1 survey of students' AI use, including paid versus free tools (course) |
 | the gap between ideation and execution | One of the challenges named in Course Learning Outcome 2 (syllabus) |
+| Final Pitch brief | The assignment document for the Final Pitch (course) |
+| Design Thinking Part II brief | The Module 13 assignment document, "DT Part II: 10x Brainstorm and Bootstrapped Prototype" (syllabus schedule) |
+| Machine Shop card | The one-page run sheet for a Machine Shop segment (course) |
 | people outside the class | Anyone who is not enrolled in the section; Board members do not count (this proposal) |
 
 ## Do not use
